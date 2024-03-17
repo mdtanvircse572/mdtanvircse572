@@ -1,4 +1,4 @@
-![logo](https://github.com/mdtanvircse572/mdtanvircse572/blob/main/Banner.jpg)
+/*![logo](https://github.com/mdtanvircse572/mdtanvircse572/blob/main/Banner.jpg)*/
 <h1 align="center">Hi 👋, I'm Md Naimur Rahman Tanvir</h1>
 <h3 align="center">A passionate Mern-stack Web Developer from Bangladesh.</h3>
 

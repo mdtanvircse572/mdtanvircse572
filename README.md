@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="../mdtanvircse572/assets/My-cover-pic.jpg" alt="Cover Image" width="1280" height="640">
+    <img src="assets/My-cover-pic.jpg" alt="Cover Photo" width="400px" />
 </p>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Tanvir..;MERN+Stack+Developer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+...." alt="Typing SVG">
 </p>
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <p align="center">
-    <div style="display: flex; justify-content: space-between; width: 400px;">
+    <div style="display: flex; gap: 10px; width: 400px;">
         <img src="https://github-readme-stats.vercel.app/api?username=mdtanvircse572&theme=radical&border=false&include_all_commits=true&count_private=true&hide_border=true" width="200" height="100"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanvircse572&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" width="200" height="100"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanvircse572&theme=radical&hide_border=false" width="200" height="100"/>

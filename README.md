@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Tanvir..;MERN+Stack+Developer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+...." alt="Typing SVG">
 </p>
 
-# 🖥️ Technical Skills:
+# 🖥️ Technical Skills: 
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -47,18 +47,6 @@ Here are some ideas to get you started:
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/daisyui/daisyui-original.svg" alt="Daisy UI" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Microsoft Office" width="40" height="40"/>
-  </a>
 </p>
 
 # 📊 GitHub Stats:
@@ -69,6 +57,15 @@ Here are some ideas to get you started:
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanvircse572&theme=radical&hide_border=false" width="200" height="100"/>
     </div>
 </p>
+
+# 🛠️ Additional Skills:
+- **Programming Languages**: Python, C, C++, Java
+- **Machine Learning**: Knowledge of algorithms and techniques.
+- **Artificial Intelligence**: Familiar with AI concepts.
+- **Natural Language Processing (NLP)**: Experience in NLP applications.
+- **System Analysis**: Skills in analyzing and designing systems.
+- **Algorithms**: Strong foundation in algorithm design and analysis.
+- **Microsoft Office**: Proficient in Word, Excel, PowerPoint, and more.
 
 # 📫 How to reach me: 
 - Email: mdtanvircse572@gmail.com

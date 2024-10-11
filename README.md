@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="assets/My-cover-pic.jpg" alt="Cover Photo" width="400px" />
+    <img src="assets/My-cover-pic.jpg" alt="Cover Photo" width="1200px" />
 </p>
 
 <p align="center">

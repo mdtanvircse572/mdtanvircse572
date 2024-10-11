@@ -68,11 +68,7 @@ Here are some ideas to get you started:
     <!-- Replace the following with your actual coder animation -->
     <h2>👨‍💻 Coder Animation:</h2>
     <p align="center">
-<<<<<<< HEAD
-      <img src="/assets/01.gif" alt="Coder Animation" width="400" height="400"/>
-=======
-      <img src="https://media.giphy.com/media/3o6ZsYcI8Jd3kO3q1e/giphy.gif" alt="Coder Animation" width="400" height="400"/>
->>>>>>> 3f384982535c2522466fab37ca4f0ff26aa9b2e1
+      <img src="./assets/01.gif" alt="Coder Animation" width="400" height="400"/>
       <!-- You can also use a <video> tag or another animation here -->
     </p>
   </div>

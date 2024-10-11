@@ -40,12 +40,9 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanvircse572&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=mdtanvircse572&theme=radical&border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdtanvircse572&theme=radical&hide_border=false)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdtanvircse572&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdtanvircse572&theme=radical&border=false&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&width=300&height=100" alt="GitHub Stats">
+</p>
 
 # 📫 How to reach me: 
 - Email: mdtanvircse572@gmail.com

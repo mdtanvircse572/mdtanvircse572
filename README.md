@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Main section to display technical skills and animation side by side -->
-<section style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
+<section style="display: flex; justify-content: space-between; align-items: center;">
 
   <!-- First column: Technical Skills -->
   <div style="flex: 1;">
@@ -61,9 +61,6 @@ Here are some ideas to get you started:
   </div>
 
 </section>
-
-<!-- Lottie script for the animation -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
 # 📊 GitHub Stats:
 <p align="center">

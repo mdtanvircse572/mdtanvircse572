@@ -44,10 +44,10 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakra/chakra-original.svg" alt="ShadCN" width="40" height="40"/>
+    <img src="https://ui.shadcn.com/shadcn.svg" alt="Shadcn" width="40" height="40"/>
   </a>
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/daisyui/daisyui-original.svg" alt="Daisy UI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/logos/daisyui.svg" alt="Daisy UI" width="40" height="40"/>
   </a>
 </p>
 

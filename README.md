@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 # 📊 GitHub Stats:
-<p align="center" style="display: flex; justify-content: center;">
+<p align="center" style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanvircse572&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&width=400&height=200" alt="Top Languages">
     <img src="https://github-readme-stats.vercel.app/api?username=mdtanvircse572&theme=radical&border=false&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&width=400&height=200" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanvircse572&theme=radical&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&width=400&height=200" alt="Streak Stats">

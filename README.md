@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 		  </a> 
 		</td>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.linkedin.com/in/naimur-rahman-361606314/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+		  <a href="https://www.linkedin.com/in/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
 			<img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="linkedin" style="width: 100%; height: auto; display: block;">
 		  </a>
 		</td>

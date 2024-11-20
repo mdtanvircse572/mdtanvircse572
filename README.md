@@ -220,34 +220,24 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanvircse572&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!--
-| Stats    | Streak    |
+| Stats | Streak |
 | :---: | :---: |
-|<a href="https://github.com/OsamaAlmamri"><img alt="OsamaAlmamri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OsamaAlmamri&show_icons=true&count_private=true&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaAlmamri&show_owner=true" alt="OsamaAlmamri"/>|
- -->
-
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulmazidakash&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4) -->
-
-<!--
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=abdulmazidakash&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) -->
+| <a href="https://github.com/mdtanvircse572"><img alt="mdtanvircse572's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdtanvircse572&show_icons=true&count_private=true&show_owner=true" height="190px"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanvircse572&show_owner=true" alt="mdtanvircse572's Streak Stats" /> |
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdtanvircse572&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
-<!--
-<img width="100%" src="https://camo.githubusercontent.com/99fe00f82befe4319483c54817d9467ee52eaa4952698442b4afa1af89e7fb0c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d423033413245266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#936ab1&amp;height=120&amp;section=footer" style="max-width: 100%;">
+---
 
- -->
-<!--
- <img width="100%" src="https://camo.githubusercontent.com/4cbfc234802b906013484b1039a99380184d43ad450ac28f244950299eff7579/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302677696474683d31303076772673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#936ab1&amp;height=120&amp;section=footer" style="max-width: 100%;">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdtanvircse572&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
- -->
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Wave">
+
 
 # 🛠️ Additional Skills:
 - **Programming Languages**: Python, C, C++, Java

@@ -11,11 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<p align="center">
-    <img src="assets/My-cover-pic.jpg" alt="Cover Photo" width="1200px" />
-</p>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Tanvir..;MERN+Stack+Developer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+...." alt="Typing SVG">

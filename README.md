@@ -1,26 +1,3 @@
-<!--
-**MdTanvir/mdtanvircse572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Tanvir..;MERN+Stack+Developer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+...." alt="Typing SVG">
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 <div align="center">
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -76,15 +53,6 @@ I have a strong background in modern technologies, I excel at creating responsiv
 <h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Github+Stats" alt="Typing SVG" /></a></h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanvircse572&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-| Stats | Streak |
-| :---: | :---: |
-| <a href="https://github.com/mdtanvircse572"><img alt="mdtanvircse572's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdtanvircse572&show_icons=true&count_private=true&show_owner=true" height="190px"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanvircse572&show_owner=true" alt="mdtanvircse572's Streak Stats" /> |
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdtanvircse572&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 

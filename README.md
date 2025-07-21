@@ -71,13 +71,13 @@ I have a strong background in modern technologies, I excel at creating responsiv
 <!--social media table-->
 
 
- <div style="text-align: center; align-items: center; Justify-content:center; margin: 20px 0;">
+ <div style="text-align: center;  margin: 20px 0;">
   <h2 style="background: teal; color: white; padding: 10px; display: inline-block;">
     Social Media
   </h2>
 
   <table style="margin: 0 auto; border-collapse: collapse;">
-    <tr>
+    <tr style= "align-items: center; Justify-content:center;"> 
       <td><a href="https://www.facebook.com/mdtanvircse572"><img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" style="width: 80px;"></a></td>
       <td><a href="https://www.linkedin.com/in/mdtanvircse572/"><img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" style="width: 80px;"></a></td>
       <td><a href="https://www.pinterest.com/mdtanvircse572/"><img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" style="width: 80px;"></a></td>

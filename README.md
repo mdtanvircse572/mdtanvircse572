@@ -71,7 +71,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 <!--social media table-->
 
 
- <div style="text-align: center; margin: 20px 0;">
+ <div style="text-align: center; align-items: center; Justify-content:center; margin: 20px 0;">
   <h2 style="background: teal; color: white; padding: 10px; display: inline-block;">
     Social Media
   </h2>

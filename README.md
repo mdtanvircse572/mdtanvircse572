@@ -68,38 +68,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 <br>Feel free to reach out if you're interested in collaborating on exciting projects on latest web development.</p>
 <hr/>
 
-<!--social media table-->
 
-
- <div style="text-align: center;  margin: 20px 0;">
-  <h2 style="background: teal; color: white; padding: 10px; display: inline-block;">
-    Social Media
-  </h2>
-
-  <table style="margin: 0 auto; border-collapse: collapse;">
-    <tr style= "align-items: center; Justify-content:center;"> 
-      <td><a href="https://www.facebook.com/mdtanvircse572"><img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" style="width: 80px;"></a></td>
-      <td><a href="https://www.linkedin.com/in/mdtanvircse572/"><img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" style="width: 80px;"></a></td>
-      <td><a href="https://www.pinterest.com/mdtanvircse572/"><img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" style="width: 80px;"></a></td>
-      <td><a href="https://www.quora.com/profile/Mohammad-Tanvir-91"><img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" style="width: 80px;"></a></td>
-      <td><a href="https://www.youtube.com/@mdtanvircse572"><img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" style="width: 80px;"></a></td>
-    </tr>
-    <tr>
-      <td>Facebook</td>
-      <td>LinkedIn</td>
-      <td>Pinterest</td>
-      <td>Quora</td>
-      <td>YouTube</td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-
-<br/>
-<hr/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

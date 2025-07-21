@@ -70,7 +70,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 
 <!--social media table-->
 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 20px 0;">
+<div style="display: flex; flex-direction: column; justify-content: center; margin: 20px 0;">
 
   <h2 style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; width: auto;">
     <a href="https://git.io/typing-svg">

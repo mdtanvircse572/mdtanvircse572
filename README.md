@@ -44,7 +44,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 <ul>
   <li><strong>Frontend Development:</strong> Expertise in HTML, CSS, JavaScript, and frameworks like React and Vue.js.</li>
   <li><strong>Backend Development:</strong> Expertise in Python and frameworks like Django and Flask.</li>
-  <li><strong>Backend Development:</strong> Expertise in Sql Datbase like Mysql, Sq-Lite etc</li>
+  <li><strong>Backend Development:</strong> Expertise in Sql Datbase like Mysql, Sq-Lite etc.</li>
   <li><strong>Design Implementation:</strong> Translating designs into pixel-perfect, responsive web applications.</li>
   <li><strong>Performance Optimization:</strong> Ensuring fast, efficient, and smooth user experiences.</li>
   <li><strong>Collaborative Problem Solving:</strong> Working closely with teams to deliver high-quality solutions.</li>

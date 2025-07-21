@@ -70,52 +70,30 @@ I have a strong background in modern technologies, I excel at creating responsiv
 
 <!--social media table-->
 
-<div style="display: flex; flex-direction: column; justify-content: center; margin: 20px 0;">
 
-  <h2 style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; width: auto;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" />
-    </a>
+ <div style="text-align: center; margin: 20px 0;">
+  <h2 style="background: teal; color: white; padding: 10px; display: inline-block;">
+    Social Media
   </h2>
 
-  <table style="border-collapse: collapse; text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse;">
     <tr>
-      <td style="padding: 0; border: 1px solid #ccc;">
-        <a href="https://www.facebook.com/mdtanvircse572" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Facebook" style="width: 100px; margin: 0 auto; display: block;">
-        </a>
-      </td>
-      <td style="padding: 0; border: 1px solid #ccc;">
-        <a href="https://www.linkedin.com/in/mdtanvircse572/" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="LinkedIn" style="width: 100px; margin: 0 auto; display: block;">
-        </a>
-      </td>
-      <td style="padding: 0; border: 1px solid #ccc;">
-        <a href="https://www.pinterest.com/mdtanvircse572/" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="Pinterest" style="width: 100px; margin: 0 auto; display: block;">
-        </a>
-      </td>
-      <td style="padding: 0; border: 1px solid #ccc;">
-        <a href="https://www.quora.com/profile/Mohammad-Tanvir-91" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="Quora" style="width: 100px; margin: 0 auto; display: block;">
-        </a>
-      </td>
-      <td style="padding: 0; border: 1px solid #ccc;">
-        <a href="https://www.youtube.com/@mdtanvircse572" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="YouTube" style="width: 100px; margin: 0 auto; display: block;">
-        </a>
-      </td>
+      <td><a href="https://www.facebook.com/mdtanvircse572"><img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" style="width: 80px;"></a></td>
+      <td><a href="https://www.linkedin.com/in/mdtanvircse572/"><img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" style="width: 80px;"></a></td>
+      <td><a href="https://www.pinterest.com/mdtanvircse572/"><img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" style="width: 80px;"></a></td>
+      <td><a href="https://www.quora.com/profile/Mohammad-Tanvir-91"><img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" style="width: 80px;"></a></td>
+      <td><a href="https://www.youtube.com/@mdtanvircse572"><img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" style="width: 80px;"></a></td>
     </tr>
     <tr>
-      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Facebook</td>
-      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">LinkedIn</td>
-      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Pinterest</td>
-      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Quora</td>
-      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 0 0 15px 0;">YouTube</td>
+      <td>Facebook</td>
+      <td>LinkedIn</td>
+      <td>Pinterest</td>
+      <td>Quora</td>
+      <td>YouTube</td>
     </tr>
   </table>
-
 </div>
+
 
 
 

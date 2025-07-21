@@ -79,11 +79,11 @@ I have a strong background in modern technologies, I excel at creating responsiv
 			<img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="facebook" style="width: 100%; height: auto; display: block;">
 		  </a>
 		</td>
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<!--<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		  <a href="https://www.instagram.com/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
 			<img src="https://img.icons8.com/?size=100&id=7QPcOVZoGlmf&format=png&color=006d32" alt="Instagram" style="width: 100%; height: auto; display: block;">
 		  </a> 
-		</td>
+		</td>-->
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		  <a href="https://www.linkedin.com/in/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
 			<img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="linkedin" style="width: 100%; height: auto; display: block;">
@@ -99,7 +99,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 			<img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="quora" style="width: 100%; height: auto; display: block;">
 		  </a>
 		</td>
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<!--<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		  <a href="https://www.reddit.com/user/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
 			<img src="https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=006d32" alt="reddit" style="width: 100%; height: auto; display: block;">
 		  </a>
@@ -108,7 +108,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 		  <a href="https://x.com/mdtanvircse572" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
 			<img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=006d32" alt="x" style="width: 100%; height: auto; display: block;">
 		  </a>
-		</td>
+		</td>-->
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		  <a href="https://www.youtube.com/@mdtanvircse572" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
 			<img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="youtube" style="width: 100%; height: auto; display: block;">

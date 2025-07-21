@@ -31,18 +31,20 @@ Here are some ideas to get you started:
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Naimur+Rahman+Tanvir" alt="Typing SVG" /></a></h3>
 
-<h1 align="center">- Why not dream bigger?
-- Why not break limits?
+<h1 align="center">- Why not dream bigger? <br>
+- Why not break limits? <br>
 - Why not ME</h1>
 
 <p>👋 Hi there! 
-I'm Naimur Rahman Tanvir.
-A passionate and experienced Web developer dedicated to building stunning and functional web-sites. 
+I'm Naimur Rahman Tanvir.<br>
+A passionate and experienced Web developer dedicated to building stunning and functional web-sites.<br>
 I have a strong background in modern technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
 
 <h2>💻 What I Do:</h2>
 <ul>
   <li><strong>Frontend Development:</strong> Expertise in HTML, CSS, JavaScript, and frameworks like React and Vue.js.</li>
+  <li><strong>Backend Development:</strong> Expertise in Python and frameworks like Django and Flask.</li>
+  <li><strong>Backend Development:</strong> Expertise in Sql Datbase like Mysql, Sq-Lite etc</li>
   <li><strong>Design Implementation:</strong> Translating designs into pixel-perfect, responsive web applications.</li>
   <li><strong>Performance Optimization:</strong> Ensuring fast, efficient, and smooth user experiences.</li>
   <li><strong>Collaborative Problem Solving:</strong> Working closely with teams to deliver high-quality solutions.</li>
@@ -50,8 +52,8 @@ I have a strong background in modern technologies, I excel at creating responsiv
 
 <h2>🔧 Technologies I Use:</h2>
 <ul>
-  <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
-  <li><strong>Frameworks/Libraries:</strong> React, Vue.js, Tailwind CSS</li>
+  <li><strong>Languages:</strong> HTML, CSS, JavaScript, Python, Sql </li>
+  <li><strong>Frameworks/Libraries:</strong> React, Vue.js, Tailwind CSS, Django, Flask</li>
   <li><strong>Tools:</strong> Git, Webpack, Babel, npm/yarn</li>
 </ul>
 
@@ -62,8 +64,8 @@ I have a strong background in modern technologies, I excel at creating responsiv
   <li>Continually improving my skills and knowledge.</li>
 </ul>
 
-<p>🚀 Let's connect! Feel free to reach out if you're interested in collaborating on exciting projects or want to chat about the latest web development.</p>
-
+<p>🚀 Let's connect! 
+<br>Feel free to reach out if you're interested in collaborating on exciting projects on latest web development.</p>
 <hr/>
 
 <!--social media table-->

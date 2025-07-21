@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 - Why not break limits?
 - Why not ME</h1>
 
-<p>👋 Hi there! I'm Naimur Rahman Tanvir, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
+<p>👋 Hi there! 
+I'm Naimur Rahman Tanvir.
+A passionate and experienced Web developer dedicated to building stunning and functional web-sites. 
+I have a strong background in modern technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
 
 <h2>💻 What I Do:</h2>
 <ul>

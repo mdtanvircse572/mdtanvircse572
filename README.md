@@ -70,7 +70,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 
 <!--social media table-->
 
-<table style="width: 100%; align=center ">
+<table style="width: 100%; margin: 0 auto; text-align: center;">
 	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
 	<tbody>
 	  <tr>

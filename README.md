@@ -70,65 +70,51 @@ I have a strong background in modern technologies, I excel at creating responsiv
 
 <!--social media table-->
 
-<table style="width: 100%; margin: 0 auto; align-items: center;">
-	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
-	<tbody>
-	  <tr>
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.facebook.com/mdtanvircse572" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="facebook" style="width: 100%; height: auto; display: block;">
-		  </a>
-		</td>
-		<!--<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.instagram.com/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=7QPcOVZoGlmf&format=png&color=006d32" alt="Instagram" style="width: 100%; height: auto; display: block;">
-		  </a> 
-		</td>-->
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.linkedin.com/in/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="linkedin" style="width: 100%; height: auto; display: block;">
-		  </a>
-		</td>
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.pinterest.com/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="pinterest" style="width: 100%; height: auto; display: block;">
-		  </a>
-		</td>
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.quora.com/profile/Mohammad-Tanvir-91" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="quora" style="width: 100%; height: auto; display: block;">
-		  </a>
-		</td>
-		<!--<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.reddit.com/user/mdtanvircse572/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=006d32" alt="reddit" style="width: 100%; height: auto; display: block;">
-		  </a>
-		</td>
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://x.com/mdtanvircse572" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=006d32" alt="x" style="width: 100%; height: auto; display: block;">
-		  </a>
-		</td>-->
-		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		  <a href="https://www.youtube.com/@mdtanvircse572" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
-			<img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="youtube" style="width: 100%; height: auto; display: block;">
-		  </a>
-		</td>
-	  </tr>
-	</tbody>
-	<tfoot>
-		<tr>
-		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Facebook</td>
-		  <!--<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Instagram</td>-->
-		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">LinkedIn</td>
-		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Pinterest</td>
-		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Quora</td>
-		  <!--<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Reddit</td>
-		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">X</td>-->
-		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 0 0 15px 0">Youtube</td>
-		</tr>
-	  </tfoot>
+<div style="text-align: center; margin: 20px 0;">
+  <h2 style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; width: 100%; box-sizing: border-box;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" />
+    </a>
+  </h2>
+
+  <table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
+    <tr>
+      <td style="width: 12.5%; border: 1px solid #ccc;">
+        <a href="https://www.facebook.com/mdtanvircse572" style="display: block; background-color: #d0e1f9;">
+          <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Facebook" style="width: 100%; display: block;">
+        </a>
+      </td>
+      <td style="width: 12.5%; border: 1px solid #ccc;">
+        <a href="https://www.linkedin.com/in/mdtanvircse572/" style="display: block; background-color: #d0e1f9;">
+          <img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="LinkedIn" style="width: 100%; display: block;">
+        </a>
+      </td>
+      <td style="width: 12.5%; border: 1px solid #ccc;">
+        <a href="https://www.pinterest.com/mdtanvircse572/" style="display: block; background-color: #d0e1f9;">
+          <img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="Pinterest" style="width: 100%; display: block;">
+        </a>
+      </td>
+      <td style="width: 12.5%; border: 1px solid #ccc;">
+        <a href="https://www.quora.com/profile/Mohammad-Tanvir-91" style="display: block; background-color: #d0e1f9;">
+          <img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="Quora" style="width: 100%; display: block;">
+        </a>
+      </td>
+      <td style="width: 12.5%; border: 1px solid #ccc;">
+        <a href="https://www.youtube.com/@mdtanvircse572" style="display: block; background-color: #d0e1f9;">
+          <img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="YouTube" style="width: 100%; display: block;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Facebook</td>
+      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">LinkedIn</td>
+      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Pinterest</td>
+      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Quora</td>
+      <td style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 0 0 15px 0;">YouTube</td>
+    </tr>
   </table>
+</div>
+
   
 
 <br/>

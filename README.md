@@ -71,7 +71,7 @@ I have a strong background in modern technologies, I excel at creating responsiv
 <!--social media table-->
 
 <div style="text-align: center; margin: 20px 0;">
-  <h2 style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; width: 100%; box-sizing: border-box;">
+  <h2 style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; display: inline-block; width: auto;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" />
     </a>
@@ -79,29 +79,29 @@ I have a strong background in modern technologies, I excel at creating responsiv
 
   <table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
     <tr>
-      <td style="width: 12.5%; border: 1px solid #ccc;">
+      <td style="padding: 0; border: 1px solid #ccc;">
         <a href="https://www.facebook.com/mdtanvircse572" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Facebook" style="width: 100%; display: block;">
+          <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Facebook" style="width: 100px; height: auto; display: block; margin: 0 auto;">
         </a>
       </td>
-      <td style="width: 12.5%; border: 1px solid #ccc;">
+      <td style="padding: 0; border: 1px solid #ccc;">
         <a href="https://www.linkedin.com/in/mdtanvircse572/" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="LinkedIn" style="width: 100%; display: block;">
+          <img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="LinkedIn" style="width: 100px; height: auto; display: block; margin: 0 auto;">
         </a>
       </td>
-      <td style="width: 12.5%; border: 1px solid #ccc;">
+      <td style="padding: 0; border: 1px solid #ccc;">
         <a href="https://www.pinterest.com/mdtanvircse572/" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="Pinterest" style="width: 100%; display: block;">
+          <img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="Pinterest" style="width: 100px; height: auto; display: block; margin: 0 auto;">
         </a>
       </td>
-      <td style="width: 12.5%; border: 1px solid #ccc;">
+      <td style="padding: 0; border: 1px solid #ccc;">
         <a href="https://www.quora.com/profile/Mohammad-Tanvir-91" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="Quora" style="width: 100%; display: block;">
+          <img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="Quora" style="width: 100px; height: auto; display: block; margin: 0 auto;">
         </a>
       </td>
-      <td style="width: 12.5%; border: 1px solid #ccc;">
+      <td style="padding: 0; border: 1px solid #ccc;">
         <a href="https://www.youtube.com/@mdtanvircse572" style="display: block; background-color: #d0e1f9;">
-          <img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="YouTube" style="width: 100%; display: block;">
+          <img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="YouTube" style="width: 100px; height: auto; display: block; margin: 0 auto;">
         </a>
       </td>
     </tr>
@@ -115,84 +115,6 @@ I have a strong background in modern technologies, I excel at creating responsiv
   </table>
 </div>
 
-  
-
-<br/>
-<hr/>
-
-<!--programming language and tools-->
-
-<table style="width: 100%; border-collapse: collapse;">
-	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Language+and+Tools" alt="Typing SVG" /></a></h2>
-	<tbody>
-	<tr>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://www.w3.org/html/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://www.w3schools.com/css/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://getbootstrap.com" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="javascript" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://www.mongodb.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://nodejs.org" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://reactjs.org/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="react" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://tailwindcss.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://git-scm.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
-		<a href="https://www.figma.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 100%; height: auto; display: block;">
-		</a>
-	  </td>
-	</tr>
-</tbody>
-<tfoot>
-	<tr>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">HTML</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">CSS</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Bootstrap</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">JavaScript</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">MongoDB</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Node Js</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">React</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Tailwind CSS</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Git</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 5;">Figma</td>
-	</tr>
-  </tfoot>
-</table>
 
 
 
